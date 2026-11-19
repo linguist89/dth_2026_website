@@ -14,3 +14,10 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 You can also add images from the assets folder:
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
+
+## References
+
+Everything under this headline is left out of the character counts.
+
+- Berry, D. M., & Fagerjord, A. (2017). *Digital Humanities: Knowledge and Critique in a Digital Age*. Polity Press.
+- Drucker, J. (2021). *The Digital Humanities Coursebook*. Routledge.
